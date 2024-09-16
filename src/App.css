@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  text-transform:capitalize;
+  background-color: linear-gradient(to bottom, #6a9764, #ffffff);
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #6a9764;
+  border: solid 2px;
+  border-radius: 5px;
+  cursor: pointer;
+}
